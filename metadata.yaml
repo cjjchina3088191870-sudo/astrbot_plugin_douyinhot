@@ -1,0 +1,7 @@
+name: astrbot_plugin_douyinhot
+display_name: 抖音热搜
+desc: 获取抖音实时热搜榜，支持自定义数量，可选图片或文本格式输出
+help: 指令：/douyinhot [数量] 或发送"抖音热搜"关键词
+version: v1.0.0
+author: AstrBot AI Assistant
+repo: https://github.com/cjjchina3088191870-sudo/astrbot_plugin_douyinhot
